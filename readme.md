@@ -14,6 +14,8 @@
 3. 语音消息备份（`>=2.6.6.28`）
 4. 消息发送接口（`>=2.6.6.44`）
 
+**`WeChatSDK`目前已经开放`C++`、`Python`接口。**
+
 更新详情请看[更新日志](update.md)
 
 # 技术内幕
@@ -26,6 +28,10 @@
 4. [https://mp.weixin.qq.com/s/uUXB9AHtnhCsD7gAfFYRoA](https://mp.weixin.qq.com/s/uUXB9AHtnhCsD7gAfFYRoA)（消息发送接口）
 
 欢迎PR或提供意见建议。
+
+### 声明
+
+**<label style="color:red">本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明。</label>**
 
 <br/><br/>
 
