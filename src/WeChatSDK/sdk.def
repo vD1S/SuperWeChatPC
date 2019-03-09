@@ -1,11 +1,17 @@
 EXPORTS
 	WXOpenWechat
+	WXGetWechat
 	WXIsWechatAlive
 	WXInitialize
 	WXUninitialize
+	WXGetWechatVersion
 	WXIsWechatSDKOk 
 	WXAntiRevokeMsg
 	WXUnAntiRevokeMsg
 	WXSaveVoiceMsg
 	WXUnSaveVoiceMsg
 	WXSendTextMsg
+	;WXSendImageMsg
+	WXRecvTextMsg
+	WXRecvTransferMsg
+	WXRecvPayMsg
